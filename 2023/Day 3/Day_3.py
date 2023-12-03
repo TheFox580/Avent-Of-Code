@@ -16,10 +16,6 @@ file.close()
 digits = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 not_symbol = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '.', '\n']
 
-"""
-check for a symbol in an adjacent spot of a number
-"""
-
 sum_part_number = 0
 
 for i in range(len(fileinput)):
