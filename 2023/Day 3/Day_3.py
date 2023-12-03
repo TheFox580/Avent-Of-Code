@@ -1,5 +1,6 @@
 # THIS IS UNRESOLVED FOR NOW, I WILL TRY TO FIX IT BEFORE DECEMBER 25th
 
+
 file = open("Day_3_input.txt", "r")
 
 fileinput = []
